@@ -1,11 +1,11 @@
 # LinkDrive
 
-LinkDrive e um gerenciador visual de links que organiza URLs como se fossem pastas reais.
+LinkDrive é um gerenciador visual de links que organiza URLs como se fossem pastas reais.
 
 ## Sobre
-- Publico alvo: estudantes, devs/designers e usuarios gerais que precisam organizar links.
-- Experiencia: UI em formato de sistema de arquivos com pastas e cards.
-- Escopo atual: telas estaticas com formularios HTML e estilos completos.
+- Público alvo: estudantes, devs/designers e usuários gerais que precisam organizar links.
+- Experiência: UI em formato de sistema de arquivos com pastas e cards.
+- Escopo atual: telas estáticas com formulários HTML e estilos completos.
 
 ## Estrutura
 - index.html: tela de cadastro/login simples.
@@ -13,7 +13,7 @@ LinkDrive e um gerenciador visual de links que organiza URLs como se fossem past
 - pastas.html: listagem completa de pastas.
 - pasta.html: detalhes de uma pasta com subpastas e links.
 - styles/main.css: tokens de design e componentes visuais.
-- scripts/main.js: JS minimo para futura interacao.
+- scripts/main.js: JS mínimo para futura interação.
 - assets/logo.svg: logo.
 
 ## Como rodar localmente
@@ -27,12 +27,12 @@ LinkDrive e um gerenciador visual de links que organiza URLs como se fossem past
 2. Acesse no navegador:
 	http://localhost:8000/index.html
 
-## Telas disponiveis (rotas atuais)
+## Telas disponíveis (rotas atuais)
 - /index.html (cadastro/login)
 - /dashboard.html (dashboard com pastas e links recentes)
 - /pastas.html (todas as pastas)
 - /pasta.html (detalhe da pasta)
 
-## Observacoes
-- Os formularios usam validacao HTML (required, type=email) sem envio real.
-- O JavaScript é propositalmente mínimo; a lógica será implementada posteriormente.
+## Observações
+- Os formulários usam validação HTML (required, type=email) sem envio real.
+- O JavaScript é propositalmente mínimo. A lógica será implementada posteriormente.
