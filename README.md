@@ -1,11 +1,14 @@
 # LinkDrive
 
-LinkDrive é um gerenciador visual de links que organiza URLs como se fossem pastas reais.
+LinkDrive é um gerenciador visual de links que organiza URLs como se fossem arquivos e pastas reais.
 
 ## Sobre
 - Público alvo: estudantes, devs/designers e usuários gerais que precisam organizar links.
 - Experiência: UI em formato de sistema de arquivos com pastas e cards.
 - Escopo atual: telas estáticas com formulários HTML e estilos completos.
+
+## Documento para disciplina DIM0546
+- https://docs.google.com/document/d/11lmt4wHz6EtrAihzh8DJjre9DUr9JmHhxxNOxmd5Tc8/edit?usp=sharing
 
 ## Estrutura
 - index.html: tela de cadastro/login simples.
